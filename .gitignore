@@ -1,4 +1,10 @@
 /.ipynb_checkpoints/
-/code/.idea/
-/code/runs/
+/src/.idea/
+/src/runs/
 /Capture.PNG
+/*.pt
+*.pt
+
+/src/wandb/
+wandb
+/wandb/
