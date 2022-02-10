@@ -1,3 +1,5 @@
 /models/
 /swedish-leaf-dataset/
 .ipynb_checkpoints
+.idea
+/.idea/
